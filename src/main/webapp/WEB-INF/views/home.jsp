@@ -6,7 +6,8 @@
 </head>
 <body>
 <h1>
-	Hello world!  
+	Hello world!
 </h1>
+<h2>Git Test</h2>
 </body>
 </html>
